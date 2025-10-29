@@ -7,3 +7,10 @@
 
 # Adicionando uma imagem:
 ![Imagem com três octocats empilhando blocos de commit](https://octodex.github.com/images/tentocats.jpg)
+
+# Adicionando blocos de código:
+
+```python
+  # Exemplo de bloco de código em Python
+  import pandas as pd
+```
