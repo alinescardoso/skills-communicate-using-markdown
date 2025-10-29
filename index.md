@@ -14,3 +14,8 @@
   # Exemplo de bloco de código em Python
   import pandas as pd
 ```
+
+# Adicionando uma lista de tarefas:
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
